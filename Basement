@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T11:09:28.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="JDELWORujLUP8yReB-13" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T11:12:03.705Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="BapuqeFtDOlYAta_jkRV" version="13.8.0" type="github">
   <diagram id="WSQtR-3kRvozGw-1QMiN" name="Page-1">
     <mxGraphModel dx="1360" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,13 +71,13 @@
           <mxGeometry x="650" y="700" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="E7GZLFY2hs0P9HPTBJqp-34" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="860" y="700" width="10" height="100" as="geometry" />
+          <mxGeometry x="871.52" y="697" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="E7GZLFY2hs0P9HPTBJqp-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="680" y="800" width="60" height="10" as="geometry" />
+          <mxGeometry x="679" y="800" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="E7GZLFY2hs0P9HPTBJqp-38" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="860" y="690" width="120" height="10" as="geometry" />
+          <mxGeometry x="870" y="690" width="110" height="10" as="geometry" />
         </mxCell>
         <mxCell id="E7GZLFY2hs0P9HPTBJqp-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="980" y="640" width="110" height="58.44" as="geometry" />
@@ -123,9 +123,6 @@
         </mxCell>
         <mxCell id="E7GZLFY2hs0P9HPTBJqp-55" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorRight;aspect=fixed;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="370" y="668.1199999999999" width="30" height="31.88" as="geometry" />
-        </mxCell>
-        <mxCell id="E7GZLFY2hs0P9HPTBJqp-57" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="800" y="797" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="E7GZLFY2hs0P9HPTBJqp-58" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=#000000;direction=north" vertex="1" parent="1">
           <mxGeometry x="740" y="800" width="60" height="30" as="geometry" />
@@ -189,6 +186,21 @@
         </mxCell>
         <mxCell id="E7GZLFY2hs0P9HPTBJqp-83" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="940" y="110" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E7GZLFY2hs0P9HPTBJqp-84" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" vertex="1" parent="1">
+          <mxGeometry x="698.94" y="800" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E7GZLFY2hs0P9HPTBJqp-85" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.window;" vertex="1" parent="1">
+          <mxGeometry x="826.52" y="797" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E7GZLFY2hs0P9HPTBJqp-86" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="857" y="797" width="23" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E7GZLFY2hs0P9HPTBJqp-87" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="727" y="800" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="E7GZLFY2hs0P9HPTBJqp-88" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="800" y="797" width="26.52" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
